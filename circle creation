@@ -1,0 +1,12 @@
+import turtle
+turtle.bgcolor("black")
+turtle.color("blue")
+turtle.circle(40)
+turtle.color("white")
+turtle.circle(50)
+turtle.circle(60)
+turtle.color("Red")
+turtle.circle(60)
+turtle.circle(70)
+turtle.color("Yellow")
+turtle.circle(80)
